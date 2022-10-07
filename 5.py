@@ -4,8 +4,8 @@
 # - A (3,6); B (2,1) -> 5,09
 # - A (7,-5); B (1,-1) -> 7,21
 
-pointA = input("Введите х и у через пробел: ").split(" ")
-pointB = input("Введите х и у через пробел: ").split(" ")
+pointA = input("Введите Х и У через пробел: ").split(" ")
+pointB = input("Введите Х и У через пробел: ").split(" ")
 
 print(pointA)
 print(pointB)
